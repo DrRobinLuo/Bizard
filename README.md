@@ -3,7 +3,7 @@
 **Bizard** has been integrated into **OpenBiox**.  
 You will be automatically redirected to [https://openbiox.github.io/Bizard/](https://openbiox.github.io/Bizard/).
 
-## Welcome :tada: {#welcome}
+## Welcome :tada:
 
 Data visualization is a critical tool in biomedical research, enabling intuitive interpretation of complex datasets to advance scientific discovery and inform clinical decisions. The R programming language, with its powerful statistical capabilities and extensive package ecosystem, has become a cornerstone for creating high-quality visualizations. However, the vast and ever-evolving landscape of R plotting packages often poses challenges for researchers, who must select appropriate methods and customize visualizations to meet specific research needs. This process demands advanced coding expertise, interdisciplinary collaboration, and significant time investment, which can hinder progress and impact the accuracy of experimental outcomes.
 
